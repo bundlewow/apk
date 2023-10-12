@@ -1,4 +1,4 @@
-{ 
+[{ 
 "user":"test",
 "admin":"1",
 "password":"test"
@@ -7,4 +7,4 @@
 "user":"Code2Power",
 "admin":"1",
 "password":"test"
-}
+}]
