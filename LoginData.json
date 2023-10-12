@@ -1,10 +1,5 @@
 { 
-"user":"test",
+"user":"test, Code2Power",
 "admin":"1",
-"password":"test"
-},
-{ 
-"user":"Code2Power",
-"admin":"1",
-"password":"ByDevAccount"
+"password":"test, DevAcc"
 }
