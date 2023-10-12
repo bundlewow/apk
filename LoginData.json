@@ -1,5 +1,7 @@
 { 
-"user":""[test], [Code2Power]",
+"user":"test,
+  Code2Power",
 "admin":"1",
-"password":"[test], [DevAcc]"
+"password":"test, 
+ DevAcc"
 }
